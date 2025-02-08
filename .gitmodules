@@ -1,0 +1,3 @@
+[submodule "src/utils/web"]
+	path = src/utils/web
+	url = https://github.com/LucStk/Movie_Map_Project.git
